@@ -1,27 +1,19 @@
 { "urls": [
     
-    { "url": "https://github.com/Xbaii99/-/tree/mai
-n/饭太硬/api.json", "name": "饭太硬" },
+    { "url": "https://github.com/Xbaii99/-/tree/main/饭太硬/api.json", "name": "饭太硬" },
     
-    { "url": "https://github.com/Xbaii99/-/tree/mai
-n/肥猫/api.json", "name": "肥猫" },
+    { "url": "https://github.com/Xbaii99/-/tree/main/肥猫/api.json", "name": "肥猫" },
 
-    { "url": "https://github.com/Xbaii99/-/tree/mai
-n/王小二/api.json", "name": "王二小" },
+    { "url": "https://github.com/Xbaii99/-/tree/main/王小二/api.json", "name": "王二小" },
 
-    { "url": "https://github.com/Xbaii99/-/tree/mai
-n/摸鱼儿/api.json", "name": "摸鱼儿" },
+    { "url": "https://github.com/Xbaii99/-/tree/main/摸鱼儿/api.json", "name": "摸鱼儿" },
 
-    { "url": "https://github.com/Xbaii99/-/tree/mai
-n/PG/api.json", "name": "PG" },
+    { "url": "https://github.com/Xbaii99/-/tree/main/PG/api.json", "name": "PG" },
 
-    { "url": "https://github.com/Xbaii99/-/tree/mai
-n/欧歌/api.json", "name": "欧歌" },
+    { "url": "https://github.com/Xbaii99/-/tree/main/欧歌/api.json", "name": "欧歌" },
 
-    { "url": "https://github.com/Xbaii99/-/tree/mai
-n/OK/api.json", "name": "OK" },
+    { "url": "https://github.com/Xbaii99/-/tree/main/OK/api.json", "name": "OK" },
 
-    { "url": "https://github.com/Xbaii99/-/tree/mai
-n/动漫频道/api.json", "name": "动漫频道" }
+    { "url": "https://github.com/Xbaii99/-/tree/main/动漫频道/api.json", "name": "动漫频道" }
     
 ]}
