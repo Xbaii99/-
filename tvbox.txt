@@ -1,8 +1,8 @@
 { "urls": [
     
-    { "url": "https://github.com/Xbaii99/-/tree/main/饭太硬/api.json", "name": "饭太硬" },
+    { "url": "https://github.com/Xbaii99/-/main/饭太硬/api.json", "name": "饭太硬" },
     
-    { "url": "https://github.com/Xbaii99/-/tree/main/肥猫/api.json", "name": "肥猫" },
+    { "url": "https://raw.githubusercontent.com/Xbaii99/-/refs/heads/main/%E8%82%A5%E7%8C%AB/api.json", "name": "肥猫" },
 
     { "url": "https://github.com/Xbaii99/-/tree/main/王小二/api.json", "name": "王二小" },
 
