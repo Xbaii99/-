@@ -211,23 +211,13 @@
          },
   "timeout": 25
 },
-{
-  "key": "夸克木偶弹幕",
-  "name": "🍁木偶资源4K弹幕",
-  "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "http://www.muoupan.top",
-           "danmu": true
-         }
-},
+{"key":"夸克木偶弹幕","name":"🍁木偶资源4K弹幕","type":3,"api":"csp_MuouGuard","quickSearch":1, "changeable":1, "filterable":1, "ext": {
+      "token": "file://TV/ali_token.txt",
+      "cookie": "file://TV/quark_cookie.txt",
+      "uc_cookie": "file://TV/uc_cookie.txt",
+      "danmu" : true
+    }, "timeout": 25},
+  
 {
   "key": "夸克至臻弹幕",
   "name": "🏆️夸克至臻4K弹幕",
